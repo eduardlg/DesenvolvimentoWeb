@@ -1,0 +1,67 @@
+body{
+    background-color:rgba(224, 43, 43, 0.39);
+
+}
+
+#card{
+    display: flex table-row;
+    background-repeat: no-repeat;
+    background-image: url(../assets/make.jpeg);
+    background-position-x: 40%;
+    background-position-y: 33%;
+    width: 800px;
+    height: 400px;
+    box-sizing: border-box;
+    /*background-position: center -550px;*/
+    border-radius: 10px; 
+    margin: auto;
+}
+
+#logo{
+    width: 77%;
+    margin-top: -60px;
+    margin-left: -50px;
+}
+
+/*#p1{
+    font-size: 60px;
+    margin-left: 20px;
+}*/
+
+#contact{
+    font-family: "Sofia";
+    color: rgba(80, 47, 15, 0.801);
+    font-size: 21px;
+    font-weight: 600;
+    list-style-type: none;
+    padding-left: 85%;
+
+}
+#contact1{
+    text-indent: 10px;
+    background-color: rgba(255, 255, 240, 0.39);
+    border-radius: 10px;
+    margin-left: -25px;
+    margin-right: 5px;
+    /*padding:-10px;*/
+    
+}
+a{
+    text-decoration: none;
+    color: rgba(230, 221, 216, 0.76);
+    font-weight: 500;
+    border-radius: 5px;
+}
+a:hover{
+    background-color:rgba(226, 102, 80, 0.418);
+}
+
+/*#instagram{
+    list-style-image: url(/images/Insta.png);
+}
+#youtube{
+    list-style-image: url(/images/Youtube.png);
+}
+#whatsapp{
+    list-style-image: url(/images/whatsapp.png);
+} */
